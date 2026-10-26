@@ -1,0 +1,10 @@
+{
+  "name": "installed-nodes",
+  "private": true,
+  "dependencies": {
+    "@elevenlabs/n8n-nodes-elevenlabs": "0.2.2",
+    "@mendable/n8n-nodes-firecrawl": "2.1.0",
+    "@apify/n8n-nodes-apify": "0.6.5",
+    "@devlikeapro/n8n-nodes-waha": "2025.2.9"
+  }
+}

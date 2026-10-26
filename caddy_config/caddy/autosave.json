@@ -1,0 +1,1 @@
+{"apps":{"http":{"servers":{"srv0":{"listen":[":443"],"routes":[{"handle":[{"handler":"subroute","routes":[{"handle":[{"handler":"reverse_proxy","upstreams":[{"dial":"n8n:5678"}]}]}]}],"match":[{"host":["dechraoui-n8n.duckdns.org"]}],"terminal":true}]}}}}}
